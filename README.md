@@ -15,4 +15,3 @@ npm install
 ```
 npm run dev
 ```
-- Esto iniciara e instalara todas las dependecias necesarias. 
